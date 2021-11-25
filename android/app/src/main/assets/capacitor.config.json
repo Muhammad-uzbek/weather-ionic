@@ -1,0 +1,6 @@
+{
+	"appId": "com.zamin.app",
+	"appName": "Weather Zamin",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}
